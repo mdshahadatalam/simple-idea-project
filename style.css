@@ -1,0 +1,46 @@
+*{
+    font-family: "Anek Devanagari", sans-serif;
+    font-weight: 300;
+    
+}
+.navber{
+    background-color: #306fc7;
+    color: white;
+}
+.my-image{
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px auto;
+}
+.section1{
+    background-color: #306fc7;
+    color: white;
+}
+.get-demo{
+    width: 105px;
+   padding: 4px;
+   border-radius: 15px;
+   border: none;
+   font-size: 10px;
+   font-weight: bold;
+}
+.get-demo:hover{
+ background-color:rgb(105, 105, 212) ;
+ border: 1px solid black;
+ color: white;
+}
+.logo-image{
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.Intrados{
+    text-align: center;
+}
+.dami-text{
+    text-align: center;
+}
+.section3{
+    padding: 4rem 5rem;
+}
